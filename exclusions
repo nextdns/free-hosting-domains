@@ -1,0 +1,78 @@
+# subdomains not attributed to users
+
+# https://surge.sh
+na-west1.surge.sh # CNAME for custom domains (https://surge.sh/help/adding-a-custom-domain)
+surge.surge.sh # used by https://surge.surge.sh/stats on their website
+
+# https://www.framer.com/publish
+sites.framer.app # CNAME for custom domains (https://www.framer.com/help/articles/how-to-connect-a-custom-domain)
+
+# https://www.weebly.com/websites
+community.weebly.com
+hc.weebly.com
+www.weebly.com
+
+# https://hosting.miarroba.com
+server.webcindario.com # CNAME for custom domains (https://soporte.miarroba.com/7/10711719-hosting-usa-tu-propio-nombre-de-dominio)
+
+# https://www.bluehost.com/web-hosting
+ns1.mybluehost.me
+ns2.mybluehost.me
+
+# https://wpengine.com/wordpress-hosting
+wp.wpenginepowered.com # CNAME for custom domains (https://wpengine.com/support/advanced-network)
+
+# https://www.blogger.com
+www.blogspot.com
+
+# https://www.squarespace.com
+assets.squarespace.com
+clanker-events.squarespace.com
+events.squarespace.com
+ext-cust.squarespace.com # CNAME for custom domains (https://support.squarespace.com/hc/en-us/articles/360035485391-DNS-records-for-connecting-third-party-domains)
+ext-sq.squarespace.com # CNAME for custom domains (https://support.squarespace.com/hc/en-us/articles/215744668-Pointing-a-Squarespace-domain)
+forum.squarespace.com
+insights.squarespace.com
+learning.squarespace.com
+location.squarespace.com
+login.squarespace.com
+performance.squarespace.com
+static1.squarespace.com
+static3.squarespace.com
+support.squarespace.com
+tracing.squarespace.com
+webinars.squarespace.com
+www.squarespace.com
+
+# https://docs.gitlab.com/user/project/pages
+namespace.gitlab.io # CNAME for custom domains (https://docs.gitlab.com/user/project/pages/custom_domains_ssl_tls_certification)
+
+# https://mailchimp.com/en/features/website-builder
+www.mailchimpsites.com
+
+# https://www.hpage.com
+admin.hpage.com
+api.hpage.com
+de.hpage.com
+file2.hpage.com
+status.hpage.com
+support.hpage.com
+www.hpage.com
+
+# https://wordpress.com/free
+assemblerdemo.wordpress.com
+blog.wordpress.com
+dotcompatterns.wordpress.com
+files.wordpress.com
+frwplandpack.wordpress.com
+ns1.wordpress.com
+ns2.wordpress.com
+ns3.wordpress.com
+ns4.wordpress.com
+public-api.wordpress.com
+r-login.wordpress.com
+refer.wordpress.com
+support.wordpress.com
+v0.wordpress.com
+video.wordpress.com
+www.wordpress.com

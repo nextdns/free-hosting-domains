@@ -1,0 +1,200 @@
+# https://netlify.com
+netlify.app
+
+# https://surge.sh
+surge.sh
+
+# https://vercel.com
+vercel.app
+
+# https://webflow.com/feature/hosting
+webflow.io
+
+# https://firebase.google.com/products/app-hosting
+firebaseapp.com
+web.app
+
+# https://www.framer.com/publish
+framer.ai
+framer.app
+framer.media
+framer.photos
+framer.website
+framer.wiki
+
+# https://www.godaddy.com/websites/website-builder
+godaddysites.com
+
+# https://www.weebly.com/websites
+weebly.com
+weeblysite.com
+
+# https://www.infinityfree.com
+000.pe
+10001mb.com
+22web.org
+2kool4u.net
+42web.io
+66ghz.com
+a0001.net
+ct.ws
+fanclub.rocks
+fast-page.org
+free.nf
+freesite.online
+fwh.is
+gamer.gd
+great-site.net
+gt.tc
+html-5.me
+iblogger.org
+infy.uk
+infinityfree.me
+infinityfreeapp.com
+is-best.net
+is-great.net
+is-great.org
+kesug.com
+likesyou.org
+loveslife.biz
+lovestoblog.com
+my-board.org
+my-style.in
+mydiscussion.net
+nichesite.org
+page.gd
+rf.gd
+social-networking.me
+synergize.co
+talk4fun.net
+totalh.net
+xo.je
+web1337.net
+wuaze.com
+
+# https://www.wix.com
+wixsite.com
+wixstudio.com
+
+# https://hosting.fleek.xyz/docs/platform/hosting
+on-fleek.app
+
+# https://typedream.com/sites
+typedream.app
+
+# https://hosting.miarroba.com
+webcindario.com
+
+# https://wpmudev.com/hosting
+tempurl.host
+
+# https://www.bluehost.com/web-hosting
+mybluehost.me
+
+# https://wpengine.com/wordpress-hosting
+wpenginepowered.com
+
+# https://www.cloudflare.com/developer-platform/products/r2
+r2.dev
+
+# https://workers.cloudflare.com
+workers.dev
+
+# https://bolt.new
+bolt.host
+
+# https://about.ipfs.io
+# https://docs.ipfs.tech/how-to/address-ipfs-on-web/#subdomain-gateway
+ipfs.dweb.link
+
+# https://sellfy.com
+sellfy.store
+
+# https://www.blogger.com
+blogspot.com
+
+# https://www.hostinger.com
+builder-preview.com
+hostingersite.com
+
+# https://squareup.com/us/en/online-store
+square.site
+
+# https://www.squarespace.com
+squarespace.com
+
+# https://carrd.co
+carrd.co
+
+# https://docs.gitlab.com/user/project/pages
+gitlab.io
+
+# https://www.yola.com
+yolasite.com
+
+# https://mailchimp.com/en/features/website-builder
+mailchimpsites.com
+
+# https://replit.com/products/deployments
+replit.app
+
+# https://www.hpage.com
+hpage.com
+
+# https://wordpress.com/free
+wordpress.com
+art.blog
+business.blog
+car.blog
+code.blog
+data.blog
+design.blog
+family.blog
+fashion.blog
+finance.blog
+fitness.blog
+food.blog
+game.blog
+health.blog
+home.blog
+law.blog
+movie.blog
+music.blog
+news.blog
+photo.blog
+poetry.blog
+politics.blog
+school.blog
+science.blog
+sport.blog
+tech.blog
+travel.blog
+video.blog
+water.blog
+
+# https://fly.io
+# BEWARE: CNAME for custom domains is *.fly.dev (https://fly.io/docs/networking/custom-domain)
+fly.dev
+
+# https://render.com/docs/static-sites
+# BEWARE: CNAME for custom domains is *.onrender.com (https://render.com/docs/custom-domains)
+onrender.com
+
+# https://docs.github.com/pages
+# BEWARE: CNAME for custom domains is *.github.io (https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+github.io
+
+# https://pages.cloudflare.com
+# BEWARE: CNAME for custom domains is *.pages.dev (https://developers.cloudflare.com/pages/configuration/custom-domains/#add-a-custom-cname-record)
+pages.dev
+
+# https://azure.microsoft.com/en-us/products/app-service/web
+# BEWARE: CNAME for custom domains is *.azurewebsites.net (https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain)
+azurewebsites.net
+
+# https://glitch.com (now defunct)
+glitch.me
+
+# 000webhost.com (now defunct)
+# BEWARE: CNAME for custom domains is *.000webhostapp.com
+000webhostapp.com
